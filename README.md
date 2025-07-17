@@ -20,5 +20,5 @@ This is a basic calculator application that can perform simple arithmetic operat
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/Girmay18/PLP_SEE.git
 cd simple-calculator
